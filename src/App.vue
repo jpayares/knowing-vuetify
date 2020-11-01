@@ -14,7 +14,7 @@
       <v-layout column>
         <v-flex mx-3>
           <v-btn class="my-2" color="success" block :to="{name: 'Home'}">Home</v-btn>
-          <v-btn class="my-2" color="success" block :to="{name: 'Botones'}">Botonesss</v-btn>
+          <v-btn class="my-2" color="success" block :to="{name: 'Botones'}">Botones</v-btn>
           <v-btn class="my-2" color="success" block :to="{name: 'Grid'}">Grid</v-btn>
           <v-btn class="my-2" color="success" block :to="{name: 'Cards'}">Cards</v-btn>
           <v-btn class="my-2" color="success" block :to="{name: 'Columns'}">Columns</v-btn>
